@@ -1,6 +1,7 @@
 import Slider from "./components/Slider";
 import ProductList from "./components/ProductList";
 import CategoryList from "./components/CategoryList";
+import Footer from "./components/Footer";
 
 const HomePage =() =>{
   return (
