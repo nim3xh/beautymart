@@ -28,7 +28,7 @@ const ProductList = () => {
           <div className="text-sm text-gray-500">
             My Description
           </div>
-          <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
+          <button className="rounded-2xl ring-1 ring-bg-[#F35c7A] text-bg-[#F35c7A] w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
             Add to Cart
           </button>
       </Link>
@@ -56,7 +56,7 @@ const ProductList = () => {
           <div className="text-sm text-gray-500">
             My Description
           </div>
-          <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
+          <button className="rounded-2xl ring-1 ring-bg-[#F35c7A] text-bg-[#F35c7A] w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
             Add to Cart
           </button>
       </Link>
@@ -84,7 +84,7 @@ const ProductList = () => {
           <div className="text-sm text-gray-500">
             My Description
           </div>
-          <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
+          <button className="rounded-2xl ring-1 ring-bg-[#F35c7A] text-bg-[#F35c7A] w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
             Add to Cart
           </button>
       </Link>
@@ -112,7 +112,7 @@ const ProductList = () => {
           <div className="text-sm text-gray-500">
             My Description
           </div>
-          <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
+          <button className="rounded-2xl ring-1 ring-bg-[#F35c7A] text-bg-[#F35c7A] w-max py-2 px-4 text-xs hover:bg-[#F35c7A] hover:text-white">
             Add to Cart
           </button>
       </Link>
