@@ -1,4 +1,6 @@
 import Image from 'next/image';
+import Filter from '../components/Filter';
+import ProductList from '../components/ProductList';
 
 const ListPage = () => {
     return(
@@ -23,6 +25,11 @@ const ListPage = () => {
                     />
                 </div>
             </div>
+            {/* FILTER */}
+            <Filter />
+            {/* PRODUCTS */}
+            <h1 className='mr-12 text-xl font-semibold'>Moisturizers For You!</h1>
+            <ProductList/>
         </div>
     )
 }
